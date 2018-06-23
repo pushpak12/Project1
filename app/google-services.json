@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "948983853885",
+    "firebase_url": "https://fir-logindemo-a9217.firebaseio.com",
+    "project_id": "fir-logindemo-a9217",
+    "storage_bucket": "fir-logindemo-a9217.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948983853885:android:a3c69ca9496dafc1",
+        "android_client_info": {
+          "package_name": "com.example.spyboy.splashscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948983853885-0ulqtotuh4q3e7vjp5du8bsk6kv0aouf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRhFwPZGC6b9UuVtV9e3gdQg13NExmHyw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
